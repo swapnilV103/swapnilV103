@@ -56,7 +56,7 @@
 
 ## 📈 GitHub Stats 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilV103&show_icons=true&locale=en" alt="SwapnilIdawate" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilV103&show_icons=true&locale=en&theme=tokyonight" alt="SwapnilIdawate" /></p>
 
 
 ## Contact
