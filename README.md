@@ -21,7 +21,8 @@
 
 ## 💻 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swapnilV103&repo=SeleniumAutomationFramework)](https://github.com/swapnilV103/SeleniumAutomationFramework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swapnilV103&repo=SeleniumWebAutomationFramework)](https://github.com/swapnilV103/SeleniumWebAutomationFramework)
+
 
 ## 💡 Skills
 
